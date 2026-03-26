@@ -1,3 +1,4 @@
+st.image("https://www.banxico.org.mx/imagenes/banxico-logo.png", width=200)
 import streamlit as st
 import random
 import time
